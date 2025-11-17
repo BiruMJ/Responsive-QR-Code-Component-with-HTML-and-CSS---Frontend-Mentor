@@ -25,7 +25,7 @@ Here are the required screenshots of both desktop and the mobile versions:
 
 ### Links
 
-- Solution URL: [http://127.0.0.1:3000/Basics HTML & CSS/QR Code Component/qr-code-component-main/qr-code-component-main/index.html]
+- Solution URL: [http://127.0.0.1:3000/Basics%20HTML%20&%20CSS/QR%20Code%20Component/qr-code-component-main/qr-code-component-main/index.html]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My processes
