@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* main */
+main {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  width: 80%;
+  max-width: 450px;
+  margin: auto;
+  padding: 16px;
+  padding-bottom: 40px;
+  border-radius: 20px;
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: 2px 5px 10px hsla(216, 15%, 48%, 0.077);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+}
+
+h2 {
+  padding: 0 20px;
+  margin-top: 24px;
+  color: hsl(218, 44%, 22%);
+}
+
+.card p {
+  padding: 0 15px;
+  font-size: 1rem;
+  margin-top: 16px;
+  color: hsl(216, 15%, 48%);
+}
+
+/* footer */
+footer {
+  width: 100%;
+  background-color: dodgerblue;
+}
+.attribution {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+  font-size: 0.8rem;
+}
+
+.attribution a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.attribution a:active {
+  color: hsl(218, 44%, 22%);
+}
+
+.attribution a:hover {
+  text-decoration: underline;
+}
